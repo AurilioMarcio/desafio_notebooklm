@@ -90,5 +90,4 @@ A diretriz inicial fornecida para orientar o comportamento da IA foi:
 
 ## 5. Link do Notebook Compartilhado
 
-🔗 **Acesse o notebook completo aqui:** [Link do Notebook Compartilhado](https://notebooklm.google.com/notebook/SEU_LINK_AQUI)
-*(Substitua a URL acima pelo link gerado na opção de compartilhamento do Gemini Notebook).*
+🔗 **Acesse o notebook completo aqui:** [Link do Notebook Compartilhado]https://notebook.google.com/notebook/cf4086d6-4fbc-40b8-882e-95c33b2185a6
